@@ -18,14 +18,14 @@ Publications
 Preprints
 ======
 * CriticBench: Benchmarking LLMs for Critique-Correct Reasoning
-  * Zicheng Lin*, Zhibin Gou*, Tian Liang, **Ruilin Luo**, Haowei Liu, Yujiu Yang
-  * arXiv:2402.14809 [pdf](https://arxiv.org/pdf/2402.14809.pdf)
+  * Zicheng Lin\*, Zhibin Gou\*, Tian Liang, **Ruilin Luo**, Haowei Liu, Yujiu Yang
+  * arXiv:2402.14809 \[pdf\](https://arxiv.org/pdf/2402.14809.pdf)
 * Chain of History: Learning and Forecasting with LLMs for Temporal Knowledge Graph Completion
-  * **Ruilin Luo***, Tianle Gu*, Haoling Li*, Junzhe Li, Zicheng Lin, Jiayi Li, Yujiu Yang
-  * arXiv:2401.06072 [pdf](https://arxiv.org/pdf/2401.06072.pdf)
+  * **Ruilin Luo**\*, Tianle Gu\*, Haoling Li\*, Junzhe Li, Zicheng Lin, Jiayi Li, Yujiu Yang
+  * arXiv:2401.06072 \[pdf\](https://arxiv.org/pdf/2401.06072.pdf)
 * Prior Bilinear Based Models for Knowledge Graph Completion
-  * Jiayi Li*, **Ruilin Luo***, Jiaqi Sun, Jing Xiao, Yujiu Yang
-  * arXiv:2309.13834 [pdf](https://arxiv.org/pdf/2309.13834.pdf)
+  * Jiayi Li\*, **Ruilin Luo**\*, Jiaqi Sun, Jing Xiao, Yujiu Yang
+  * arXiv:2309.13834 \[pdf\](https://arxiv.org/pdf/2309.13834.pdf)
  
 Awards
 =====
