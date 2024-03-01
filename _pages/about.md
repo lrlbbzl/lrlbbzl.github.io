@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first-year master's student supervised by [Prof.Yang](https://www.sigs.tsinghua.edu.cn/yyj/list.htm) at the Shenzhen International Graduate School, Tsinghua University, under the supervision of Prof. Yang. I received my bachelor's degree from Huazhong University of Science and Technology, under the supervision of [Prof.He](http://faculty.hust.edu.cn/hekun/zh_CN/index.htm). My previous research focused on knowledge graph embeddings. Now, my research interests are primarily in LLM applications and graph representation learning.
+I am currently a first-year master's student supervised by [Prof.Yang](https://www.sigs.tsinghua.edu.cn/yyj/list.htm) at the Shenzhen International Graduate School, Tsinghua University. I received my bachelor's degree from Huazhong University of Science and Technology, under the supervision of [Prof.He](http://faculty.hust.edu.cn/hekun/zh_CN/index.htm). My previous research focused on knowledge graph embeddings. Now, my research interests are primarily in LLM applications and graph representation learning.
 
 Publications
 ======
