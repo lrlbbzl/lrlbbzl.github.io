@@ -33,6 +33,10 @@ Awards
 * 2022 The Mathematical Contest in Modeling--Team Leader (Finalist award, top 2%)
 * Outstanding graduates, Huazhong University of Science and Technology (2023)
 
+Internship
+=====
+* Tencent. 2024.02 - Present
+
 Interests
 =====
 * E-Games: DOTA1, DOTA2, CSGO
