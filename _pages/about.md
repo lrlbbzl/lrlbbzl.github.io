@@ -13,7 +13,7 @@ Publications
 ======
 * Relational Schema Assists Effective Contrastive Learning for Inductive Knowledge Graph Completion
   * **Ruilin Luo**, Jiayi Li, Jianghangfan Zhang, Jing Xiao, Yujiu Yang
-  * COLING 2024 Long Paper (CCF B)
+  * COLING 2024 Long Paper (CCF B) [[pdf](http://lrlbbzl.github.io/files/PReSA_camera_ready.pdf)]
 
 Preprints
 ======
