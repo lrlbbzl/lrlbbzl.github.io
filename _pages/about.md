@@ -25,7 +25,7 @@ Preprints
 * Chain of History: Learning and Forecasting with LLMs for Temporal Knowledge Graph Completion
   * **Ruilin Luo**\*, Tianle Gu\*, Haoling Li\*, Junzhe Li, Zicheng Lin, Jiayi Li, Yujiu Yang
   * arXiv:2401.06072 [[pdf](https://arxiv.org/pdf/2401.06072.pdf)]
-* Prior Bilinear Based Models for Knowledge Graph Completion
+* Prior Bilinear-Based Models for Knowledge Graph Completion
   * Jiayi Li\*, **Ruilin Luo**\*, Jiaqi Sun, Jing Xiao, Yujiu Yang
   * arXiv:2309.13834 [[pdf](https://arxiv.org/pdf/2309.13834.pdf)]
  
