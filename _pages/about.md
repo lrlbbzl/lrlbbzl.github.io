@@ -14,7 +14,7 @@ I am currently a first-year master's student supervised by [Prof.Yang](https://w
 Publications
 ======
 * Relational Schema Assists Effective Contrastive Learning for Inductive Knowledge Graph Completion
-  * **Ruilin Luo**\*, Jiayi Li\*, Jianghangfan Zhang, Jing Xiao, Yujiu Yang
+  * **Ruilin Luo**, Jiayi Li, Jianghangfan Zhang, Jing Xiao, Yujiu Yang
   * COLING 2024 Long Paper (CCF B) [[pdf](http://lrlbbzl.github.io/files/PReSA_camera_ready.pdf)][[code](https://github.com/lrlbbzl/PReSA)]
 
 Preprints
@@ -28,7 +28,7 @@ Preprints
 * Prior Bilinear-Based Models for Knowledge Graph Completion
   * Jiayi Li\*, **Ruilin Luo**\*, Jiaqi Sun, Jing Xiao, Yujiu Yang
   * arXiv:2309.13834 [[pdf](https://arxiv.org/pdf/2309.13834.pdf)][[code](https://github.com/lrlbbzl/unibi_ogb)][[leaderboard](https://ogb.stanford.edu/docs/leader_linkprop/#ogbl-biokg)]
- 
+
 Awards
 =====
 * AAAI2024 COMPETITION ON MATH PROBLEM SOLVING-Track2 (7/72, top 10%)
