@@ -19,6 +19,9 @@ Publications
 
 Preprints
 ======
+* Progressive Knowledge Graph Completion
+  * Jiayi Li\*, **Ruilin Luo**\*, Jiaqi Sun, Jing Xiao, Yujiu Yang
+  * arXiv:2404.09897 [[pdf](https://arxiv.org/pdf/2404.09897.pdf)][[code](https://github.com/hyleepp/Continue-KGC)]
 * CriticBench: Benchmarking LLMs for Critique-Correct Reasoning
   * Zicheng Lin\*, Zhibin Gou\*, Tian Liang, **Ruilin Luo**, Haowei Liu, Yujiu Yang
   * arXiv:2402.14809 [[pdf](https://arxiv.org/pdf/2402.14809.pdf)]
