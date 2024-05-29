@@ -19,15 +19,15 @@ Publications
 * Prior Bilinear-Based Models for Knowledge Graph Completion
   * Jiayi Li\*, **Ruilin Luo**\*, Jiaqi Sun, Jing Xiao, Yujiu Yang
   * ECML-PKDD 2024 Research Paper (CCF B) [[pdf](https://arxiv.org/pdf/2309.13834.pdf)][[code](https://github.com/lrlbbzl/unibi_ogb)][[leaderboard](https://ogb.stanford.edu/docs/leader_linkprop/#ogbl-biokg)]
+* CriticBench: Benchmarking LLMs for Critique-Correct Reasoning
+  * Zicheng Lin\*, Zhibin Gou\*, Tian Liang, **Ruilin Luo**, Haowei Liu, Yujiu Yang
+  * ACL 2024 Findings [[pdf](https://arxiv.org/pdf/2402.14809.pdf)][[code](https://github.com/CriticBench/CriticBench)][[Website](https://criticbench.github.io/)][[Huggingface](https://huggingface.co/datasets/llm-agents/CriticBench)]
 
 Preprints
 ======
 * Progressive Knowledge Graph Completion
   * Jiayi Li\*, **Ruilin Luo**\*, Jiaqi Sun, Jing Xiao, Yujiu Yang
   * arXiv:2404.09897 [[pdf](https://arxiv.org/pdf/2404.09897.pdf)][[code](https://github.com/hyleepp/Continue-KGC)]
-* CriticBench: Benchmarking LLMs for Critique-Correct Reasoning
-  * Zicheng Lin\*, Zhibin Gou\*, Tian Liang, **Ruilin Luo**, Haowei Liu, Yujiu Yang
-  * arXiv:2402.14809 [[pdf](https://arxiv.org/pdf/2402.14809.pdf)]
 * Chain of History: Learning and Forecasting with LLMs for Temporal Knowledge Graph Completion
   * **Ruilin Luo**\*, Tianle Gu\*, Haoling Li\*, Junzhe Li, Zicheng Lin, Jiayi Li, Yujiu Yang
   * arXiv:2401.06072 [[pdf](https://arxiv.org/pdf/2401.06072.pdf)]
