@@ -15,7 +15,7 @@ Publications
 ======
 * Relational Schema Assists Effective Contrastive Learning for Inductive Knowledge Graph Completion
   * **Ruilin Luo**, Jiayi Li, Jianghangfan Zhang, Jing Xiao, Yujiu Yang
-  * COLING 2024 Long Paper (CCF B) [[pdf](http://lrlbbzl.github.io/files/PReSA_camera_ready.pdf](https://aclanthology.org/2024.lrec-main.1139/)][[code](https://github.com/lrlbbzl/PReSA)]
+  * COLING 2024 Long Paper (CCF B) [[pdf](https://aclanthology.org/2024.lrec-main.1139/)][[code](https://github.com/lrlbbzl/PReSA)]
 * Prior Bilinear-Based Models for Knowledge Graph Completion
   * Jiayi Li\*, **Ruilin Luo**\*, Jiaqi Sun, Jing Xiao, Yujiu Yang
   * ECML 2024 Research Paper (CCF B) [[pdf](https://arxiv.org/pdf/2309.13834.pdf)][[code](https://github.com/lrlbbzl/unibi_ogb)][[leaderboard](https://ogb.stanford.edu/docs/leader_linkprop/#ogbl-biokg)]
