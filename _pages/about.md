@@ -13,6 +13,9 @@ I am currently a first-year master's student supervised by [Prof.Yang](https://w
 
 Publications
 ======
+* PTD-SQL: Partitioning and Targeted Drilling with LLMs in Text-to-SQL
+  * Ruilin Luo, Liyuan Wang, Binghuai Lin, Zicheng Lin, Yujiu Yang
+  * EMNLP 2024 Main Conference (CCF B) [[pdf](https://arxiv.org/abs/2409.14082)][[code](https://github.com/lrlbbzl/PTD-SQL)]
 * Relational Schema Assists Effective Contrastive Learning for Inductive Knowledge Graph Completion
   * **Ruilin Luo**, Jiayi Li, Jianghangfan Zhang, Jing Xiao, Yujiu Yang
   * COLING 2024 Long Paper (CCF B) [[pdf](https://aclanthology.org/2024.lrec-main.1139/)][[code](https://github.com/lrlbbzl/PReSA)]
@@ -40,7 +43,8 @@ Awards
 
 Internship
 =====
-* Tencent. 2024.02 - Present
+* ByteDance 2024.09 - Now
+* Tencent. 2024.02 - 2024.07
 
 Interests
 =====
