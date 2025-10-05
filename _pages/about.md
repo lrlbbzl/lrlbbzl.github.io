@@ -80,6 +80,18 @@ My research interests lie in LLM/MLLM Reasoning and Graph Representation Learnin
 
 ## *Papers on **Large Language Model**:*
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 under review</div><img src='images/iclr-image.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**From Narrow to Panoramic Vision: Attention-Guided Cold-Start Reshapes Multimodal Reasoning**
+
+`Ruilin Luo`\*, Chufan Shi\*, Yizhen Zhang\*, Cheng Yang, Songtao Jiang, Tongkun Guan, Ruizhe Chen, Ruihang Chu, Peng Wang, Mingkun Yang, Lei Wang, Yujiu Yang, Junyang Lin, Zhibo Yang
+
+- We propose the VAS attention metric and find that the reasoning performance of Multimodal Large Reasoning Models (MLRM) is highly correlated with VAS.
+- We introduce the AVAR training pipeline, which enhances the effectiveness of multimodal reasoning data training by scaling VAS through three stages: data construction, cold-start initialization, and reinforcement learning.
+- Our model achieves state-of-the-art results on reasoning and perception benchmarks at the 7B scale.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/ursa_image.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Unlocking Multimodal Mathematical Reasoning via Process Reward Model**
