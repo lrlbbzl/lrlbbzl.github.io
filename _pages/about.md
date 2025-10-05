@@ -34,7 +34,7 @@ My research interests lie in LLM/MLLM Reasoning and Graph Representation Learnin
 <!-- <div><br></div> -->
 <!-- <br> -->
 
-<img class="svg" src="/images/hust-logo.png" width="50pt"> Huazhong University of Science and Technology
+<img class="svg" src="/images/hust-logo.svg" width="50pt"> Huazhong University of Science and Technology
 <br>
 
 - *Sept. 2019 - June 2023*, Bachelor’s Degree in Computer Science and Technology, GPA 3.96/4.00.
