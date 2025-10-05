@@ -44,7 +44,7 @@ My research interests lie in LLM/MLLM Reasoning and Graph Representation Learnin
 
 # 💻 Interships
 
-<img class="svg" src="/images/qwen-logo.svg" width="60pt"> Alibaba Group, QwenVL Team, Hangzhou 
+<img class="svg" src="/images/qwen-logo.svg" style="width: 50%;"> Alibaba Group, QwenVL Team, Hangzhou 
 <br>
 
 - *Mar. 2025 - Present*, Research Intern, Multimodal Large Language Model Reasoning.
