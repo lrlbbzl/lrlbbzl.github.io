@@ -107,6 +107,17 @@ My research interests lie in LLM/MLLM Reasoning and Graph Representation Learnin
 </div>
 
 ## *Papers on **LLM for Graph Representation Learning**:*
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/emnlp25-image.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Fair Text-Attributed Graph Representation Learning**
+
+Ruilin Luo, Tianle Gu, Lin Wang, Yunfeng Zhou, Yujiu Yang
+
+- We are the first to identify the bias amplification effect between language model embeddings and GNNs in TAG representation learning.
+- We propose solutions from the perspectives of fine-tuning and offline reinforcement learning.
+- We provide a theoretical foundation for both the amplification of unfairness and our proposed mitigation approaches.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECML-PKDD 2024 Oral</div><img src='images/ecmlpkdd-image.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
