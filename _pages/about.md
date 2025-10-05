@@ -97,13 +97,13 @@ My research interests lie in LLM/MLLM Reasoning and Graph Representation Learnin
 </div>
 </div>
 
-## *Papers on **Graph Representation Learning**:*
+## *Papers on **LLM for Graph Representation Learning**:*
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECML-PKDD2024 Oral</div><img src='images/ecmlpkdd-image.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Prior Bilinear Based Models for Knowledge Graph Completion**
 
-`Ruilin Luo`, Jiayi Li, Jiaqi Sun, Jing Xiao, Yujiu Yang
+`Ruilin Luo`*, Jiayi Li*, Jiaqi Sun, Jing Xiao, Yujiu Yang
 
 [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-70352-2_19)
 - We propose the principle of identity in knowledge graph completion (KGC).
@@ -113,14 +113,13 @@ My research interests lie in LLM/MLLM Reasoning and Graph Representation Learnin
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023 BEA Workshop</div><img src='images/paper-aclworkshop.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2024</div><img src='images/coling-image.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Assisting Language Learners: Automated Trans-Lingual Definition Generation via Contrastive Prompt Learning**
+**Prior Relational Schema Assists Effective Contrastive Learning for Inductive Knowledge Graph Completion**
 
+`Ruilin Luo`, Jiayi Li, Jianghangfan Zhang, Jing Xiao, Yujiu Yang
 
-Hengyuan Zhang, Dawei Li, Yanran Li, `Chenming Shang`, Chufan Shi, Yong Jiang
-
-[[Paper]](https://arxiv.org/abs/2306.06058)
+[[Paper]](https://aclanthology.org/2024.lrec-main.1139/) | [[Code]](https://github.com/lrlbbzl/PReSA)
 </div>
 </div>
 
