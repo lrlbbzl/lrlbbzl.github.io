@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Ruilin Luo. I am currently a master student (3rd year) in [Intelligent Interaction Group (IIGroup)](https://sites.google.com/view/iigroup-thu/home), Tsinghua University, supervised by Prof. [Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN). I received my bachelor's degree in Huazhong University of Science and Technology.
+Hi! I am Ruilin Luo. I am currently a master student (3rd year) in [Intelligent Interaction Group (IIGroup)]([https://sites.google.com/view/iigroup-thu/home](https://iigroup.github.io/)), Tsinghua University, supervised by Prof. [Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN). I received my bachelor's degree in Huazhong University of Science and Technology.
 
 My research interests lie in LLM/MLLM Reasoning and Graph Representation Learning. 
 
@@ -99,18 +99,17 @@ My research interests lie in LLM/MLLM Reasoning and Graph Representation Learnin
 
 ## *Papers on Graph Representation Learning**:*
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/paper-multilingual.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECML-PKDD2024 Oral</div><img src='images/ecmlpkdd-image.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**ShifCon: Enhancing Non‑Dominant Language Capabilities with a Shift‑based Contrastive Framework**
+**Prior Bilinear Based Models for Knowledge Graph Completion**
 
+`Ruilin Luo`, Jiayi Li, Jiaqi Sun, Jing Xiao, Yujiu Yang
+https://link.springer.com/chapter/10.1007/978-3-031-70352-2_19
+[[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-70352-2_19)
 
-Hengyuan Zhang\*, `Chenming Shang`\*, Sizhe Wang, Dongdong Zhang, Feng Yao, Renliang Sun, Yiyao Yu, Yujiu Yang, Furu Wei *(\* denotes equal contribution)*
-
-[[Paper]](https://arxiv.org/abs/2410.19453) | [[Code]](https://github.com/rattlesnakey/ShifCon)
-
-- Based on the singular value decomposition, we define the language subspace.
-- We then transfer the non‑dominant language space to the dominant language space through shift projection and leverage contrastive learning to further alignment.
-- The non‑dominant language can access richer information from the parameters of LLMs and improve comprehension capability.
+- We propose the principle of identity in knowledge graph completion (KGC).
+- We introduce a bilinear KGC method that explicitly models the law of identity and outperforms classical approaches such as RESCAL and ComplEx.
+- We provide a theoretical derivation for modeling the law of identity.
 </div>
 </div>
 
