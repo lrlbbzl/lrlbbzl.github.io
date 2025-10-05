@@ -132,3 +132,7 @@ My research interests lie in LLM/MLLM Reasoning and Graph Representation Learnin
 - Tsinghua University Comprehensive First-Class Scholarship
 - Huazhong University of Science and Technology Outstanding Student
 
+# 🎵 Miscellaneous
+
+- Favorite singers/groups: Wang Leehom, JJ Lin, Jacky Cheung, Eric Chou, LE SSERAFIM, (G)I-DLE, BIGBANG, IZ*ONE
+- Hobbies: Cycling, fitness, esports (DOTA 2, CS2), singing, badminton
