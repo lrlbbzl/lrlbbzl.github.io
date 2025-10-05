@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hengyuan Zhang (张恒源)"
-description              : "Master's student at Tsinghua University. Focusing on domain-specific studies in NLP and data mining."
-repository               : "rattlesnakey/rattlesnakey.github.io"
+title                    : "Ruilin Luo (骆瑞霖)"
+description              : "Master's student at Tsinghua University. Focusing on Multimodal Large Language Model."
+repository               : "lrlbbzl/lrlbbzl.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
-google_analytics_id      : "G-FNMFPMMGS6" # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      : "" # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # fQZQD0EwLaSOrp3EbALt2rjxHEY9pUvWuh1fS96xgNk # get google_site_verification from https://search.google.com/search-console/about
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Hengyuan Zhang (张恒源)"
-  avatar           : "images/personal-image2.jpg"
+  name             : "Ruilin Luo (骆瑞霖)"
+  avatar           : "images/personal.jpg"
   bio              : "Tsinghua University"
   location         : # 
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   # googlescholar    : #"https://scholar.google.com/citations?user=VA3G0FwAAAAJ&hl=zh-CN"
-  email            : "zhang-hy22@mails.tsinghua.edu.cn"
+  email            : "lrl23@mails.tsinghua.edu.cn"
   researchgate     : # "https://www.researchgate.net/profile/Jian-Tang-53"
   uri              : 
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rattlesnakey"
+  github           : "lrlbbzl"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "hengyuanzhang88/" # e.g., "linkedin username"
+  linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : #"https://orcid.org/0000-0001-9658-209X"
   pinterest        :
@@ -57,7 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  wechat           : images/wechat.png
+  wechat           :
 
 
 # Reading Files
@@ -162,3 +162,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
