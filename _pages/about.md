@@ -104,9 +104,8 @@ My research interests lie in LLM/MLLM Reasoning and Graph Representation Learnin
 **Prior Bilinear Based Models for Knowledge Graph Completion**
 
 `Ruilin Luo`, Jiayi Li, Jiaqi Sun, Jing Xiao, Yujiu Yang
-https://link.springer.com/chapter/10.1007/978-3-031-70352-2_19
-[[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-70352-2_19)
 
+[[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-70352-2_19)
 - We propose the principle of identity in knowledge graph completion (KGC).
 - We introduce a bilinear KGC method that explicitly models the law of identity and outperforms classical approaches such as RESCAL and ComplEx.
 - We provide a theoretical derivation for modeling the law of identity.
