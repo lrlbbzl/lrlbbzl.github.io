@@ -111,7 +111,7 @@ My research interests lie in LLM/MLLM Reasoning and Graph Representation Learnin
 <div class='paper-box-text' markdown="1">
 **Fair Text-Attributed Graph Representation Learning**
 
-Ruilin Luo, Tianle Gu, Lin Wang, Yunfeng Zhou, Yujiu Yang
+`Ruilin Luo`, Tianle Gu, Lin Wang, Yunfeng Zhou, Yujiu Yang
 
 - We are the first to identify the bias amplification effect between language model embeddings and GNNs in TAG representation learning.
 - We propose solutions from the perspectives of fine-tuning and offline reinforcement learning.
