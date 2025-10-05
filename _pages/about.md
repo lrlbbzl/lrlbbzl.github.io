@@ -76,7 +76,7 @@ My research interests lie in LLM/MLLM Reasoning and Graph Representation Learnin
 
 <span class='anchor' id='-pub'></span>
 
-# 📝 Projects
+# 📝 Publications
 
 ## *Papers on **Large Language Model**:*
 
