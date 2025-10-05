@@ -97,7 +97,7 @@ My research interests lie in LLM/MLLM Reasoning and Graph Representation Learnin
 </div>
 </div>
 
-## *Papers on Graph Representation Learning**:*
+## *Papers on **Graph Representation Learning**:*
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECML-PKDD2024 Oral</div><img src='images/ecmlpkdd-image.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
