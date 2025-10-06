@@ -44,10 +44,10 @@ My research interests lie in LLM/MLLM Reasoning and Graph Representation Learnin
 
 # 🎆 News
 - *Sept. 2025*: Qwen3-VL is released! Try stronger reasoning on [Qwen Chat](https://chat.qwen.ai/).
-- *Sept. 2025*: URSA has been accepted by **NeurIPS 2025**. See you in San Diego! 
+- *Sept. 2025*: URSA has been accepted by **NeurIPS 2025**. See you in San Diego! A nice research internship at ByteDance. Congrats to Zhuofan.
 - *Aug. 2025*: FairTAG has been accepted by **EMNLP 2025**. See you in Suzhou! The arXiv preprint and code are coming soon.
-- *May 2025*: One paper has been accepted by **ICML 2025**. Congrats to Zicheng.
-- *Sept. 2024*: PTD-SQL has been accepted by **EMNLP 2024**. See you in Miami.
+- *May 2025*: Two papers have been accepted to **ICML 2025** and **ACL 2025**, respectively. Congrats to Zicheng and Tianle.
+- *Sept. 2024*: PTD-SQL has been accepted by **EMNLP 2024**. See you in Miami. A nice research internship at Tencent.
 - *May 2024*: UniBi has been accepted by **ECML-PKDD 2024** as an oral paper. See you in Vilnius, Lithuania.
 - *Feb. 2024*: PReSA has been accepted by **COLING 2024**. See you in Torino, Italy.
 
