@@ -98,7 +98,7 @@ My research interests lie in LLM/MLLM Reasoning and Graph Representation Learnin
 
 `Ruilin Luo`, Zhuofan Zheng, Yifan Wang, Xinzhe Ni, Zicheng Lin, Songtao Jiang, Yiyao Yu, Chufan Shi, Ruihang Chu, Lei Wang, Jin zeng, Yujiu Yang
 
-[[Paper]](https://arxiv.org/abs/2501.04686) | [[Code]](https://github.com/URSA-MATH/URSA-MATH)
+[[Paper]](https://arxiv.org/abs/2501.04686) | [[Code]](https://github.com/URSA-MATH/URSA-MATH) | [[HuggingFace]](https://huggingface.co/URSA-MATH)
 - We are the first to propose leveraging a process reward model (PRM) to provide process-level optimization in multimodal mathematical reasoning.
 - We introduce a training framework addressing three key stages: reasoning data scarcity, reward data scaling, and online PRM-integrated reinforcement learning (RL).
 - Our data is used to train [Seed1.5-VL](https://arxiv.org/abs/2505.07062), and we open-source URSA-8B-PS-GRPO, a model whose reasoning capability matches that of the [InternVL3](https://rank.opencompass.org.cn/leaderboard-multimodal-reasoning/?m=REALTIME) series.
