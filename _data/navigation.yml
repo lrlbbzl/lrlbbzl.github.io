@@ -1,7 +1,5 @@
 # main links links
 main:
-  - title: "Homepage"
-    url: "https://lrlbbzl.github.io/"
     
   - title: "About Me"
     url: "/#about-me"
@@ -24,4 +22,5 @@ main:
 
   # - title: "Posts"
   #   url: "/#-posts"
+
 
