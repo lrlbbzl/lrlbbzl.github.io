@@ -166,5 +166,5 @@ My research interests lie in LLM/MLLM Reasoning and Graph Representation Learnin
 
 # 🎵 Miscellaneous
 
-- Favorite singers/groups: Wang Leehom, JJ Lin, Jacky Cheung, Eric Chou, LE SSERAFIM, (G)I-DLE, BIGBANG, IZ*ONE
-- Hobbies: Cycling, fitness, esports (DOTA 2, CS2), singing, badminton
+- Favorite singers/groups: Wang Leehom, JJ Lin, Jacky Cheung, David Tao, Eric Chou, LE SSERAFIM, (G)I-DLE, BIGBANG, IZ*ONE
+- Hobbies: Cycling, fitness, concert-going, esports (DOTA 2, CS2), singing, badminton
