@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Ruilin Luo (骆瑞霖)"
-  avatar           : "images/photo.jpg"
+  avatar           : "images/personal.jpg"
   bio              : "Tsinghua University"
   location         : # 
   employer         : #"Hefei General Machinery Research Institute"
@@ -162,6 +162,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
