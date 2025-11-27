@@ -80,6 +80,18 @@ My research interests lie in LLM/MLLM Reasoning and Graph Representation Learnin
 
 ## *Papers on **Large Language Model**:*
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/qwen3vl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Qwen3-VL Technical Report**
+
+**Core Contributors**
+
+- Qwen3-VL is the most powerful vision-language model in the Qwen series to date.
+- I focus on enhanced multimodal reasoning: Excels in STEM/Math—causal analysis and logical, evidence-based answers.
+- Specifically, I lead the innovation of data synthesis pipelines and training methodologies to systematically enhance **perceptual and reasoning** capabilities across all stages—from continual pretraining and supervised fine-tuning to reinforcement fine-tuning and reinforcement learning.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 under review</div><img src='images/iclr-image.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **From Narrow to Panoramic Vision: Attention-Guided Cold-Start Reshapes Multimodal Reasoning**
