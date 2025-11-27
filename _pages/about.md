@@ -43,6 +43,7 @@ My research interests lie in LLM/MLLM Reasoning and Graph Representation Learnin
 <span class='anchor' id='-intern'></span>
 
 # 🎆 News
+- *Nov. 2025*: [Qwen3-VL technical report](https://arxiv.org/abs/2511.21631) is released.
 - *Sept. 2025*: Qwen3-VL is released! Try stronger reasoning on [Qwen Chat](https://chat.qwen.ai/).
 - *Sept. 2025*: URSA has been accepted by **NeurIPS 2025**. See you in San Diego! A nice research internship at ByteDance. Congrats to Zhuofan.
 - *Aug. 2025*: FairTAG has been accepted by **EMNLP 2025**. See you in Suzhou! The arXiv preprint and code are coming soon.
