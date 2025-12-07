@@ -138,6 +138,8 @@ My research interests lie in LLM/MLLM Reasoning and Graph Representation Learnin
 
 `Ruilin Luo`, Tianle Gu, Lin Wang, Yunfeng Zhou, Lei Wang, Yujiu Yang
 
+[[Paper]](https://aclanthology.org/2025.findings-emnlp.773/)
+
 - We are the first to identify the bias amplification effect between language model embeddings and GNNs in TAG representation learning.
 - We propose solutions from the perspectives of fine-tuning and offline reinforcement learning.
 - We provide a theoretical foundation for both the amplification of unfairness and our proposed mitigation approaches.
@@ -179,5 +181,5 @@ Jiayi Li\*, `Ruilin Luo`\*, Jiaqi Sun, Jing Xiao, Yujiu Yang
 
 # 🎵 Miscellaneous
 
-- Favorite singers/groups: Wang Leehom, JJ Lin, Jacky Cheung, David Tao, Eric Chou, LE SSERAFIM, (G)I-DLE, BIGBANG, IZ*ONE
+- Favorite singers/groups: Wang Leehom, JJ Lin, Jacky Cheung, David Tao, Eric Chou, Taeyeon, (G)I-DLE, BIGBANG, IZ*ONE
 - Hobbies: Cycling, fitness, concert-going, esports (DOTA 2, CS2), singing, badminton
