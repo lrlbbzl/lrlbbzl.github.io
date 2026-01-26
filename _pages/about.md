@@ -43,6 +43,7 @@ My research interests lie in LLM/MLLM Reasoning and Graph Representation Learnin
 <span class='anchor' id='-intern'></span>
 
 # 🎆 News
+- *Jan. 2026*: AVAR has been accepted by **ICLR 2026**. See you in Rio de Janeiro, Brazil.
 - *Nov. 2025*: [Qwen3-VL technical report](https://arxiv.org/abs/2511.21631) is released.
 - *Sept. 2025*: Qwen3-VL is released! Try stronger reasoning on [Qwen Chat](https://chat.qwen.ai/).
 - *Sept. 2025*: URSA has been accepted by **NeurIPS 2025**. See you in San Diego! A nice research internship at ByteDance. Congrats to Zhuofan.
@@ -93,7 +94,7 @@ My research interests lie in LLM/MLLM Reasoning and Graph Representation Learnin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 under review</div><img src='images/iclr-image.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/iclr-image.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **From Narrow to Panoramic Vision: Attention-Guided Cold-Start Reshapes Multimodal Reasoning**
 
