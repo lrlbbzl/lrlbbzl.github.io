@@ -110,7 +110,7 @@ My research interests lie in LLM/MLLM Reasoning and Graph Representation Learnin
 <div class='paper-box-text' markdown="1">
 **Unlocking Multimodal Mathematical Reasoning via Process Reward Model**
 
-`Ruilin Luo`, Zhuofan Zheng, Yifan Wang, Xinzhe Ni, Zicheng Lin, Songtao Jiang, Yiyao Yu, Chufan Shi, Ruihang Chu, Lei Wang, Jin zeng, Yujiu Yang
+`Ruilin Luo`\*, Zhuofan Zheng\*, Yifan Wang, Xinzhe Ni, Zicheng Lin, Songtao Jiang, Yiyao Yu, Chufan Shi, Ruihang Chu, Lei Wang, Jin zeng, Yujiu Yang
 
 [[Paper]](https://arxiv.org/abs/2501.04686) | [[Code]](https://github.com/URSA-MATH/URSA-MATH) | [[HuggingFace]](https://huggingface.co/URSA-MATH)
 - We are the first to propose leveraging a process reward model (PRM) to provide process-level optimization in multimodal mathematical reasoning.
