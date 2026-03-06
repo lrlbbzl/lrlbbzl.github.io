@@ -88,6 +88,7 @@ My research interests lie in LLM/MLLM Reasoning and Graph Representation Learnin
 
 **Core Contributors**
 
+[[paper]](https://arxiv.org/abs/2511.21631) | [[code]](https://github.com/QwenLM/Qwen3-VL) | [[HuggingFace]](https://huggingface.co/collections/Qwen/qwen3-vl)
 - Qwen3-VL is the most powerful vision-language model in the Qwen series to date.
 - I focus on enhanced multimodal reasoning: Excels in STEM/Math—causal analysis and logical, evidence-based answers.
 - Specifically, I lead the innovation of data synthesis pipelines and training methodologies to systematically enhance **perceptual and reasoning** capabilities across all stages—from continual pretraining and supervised fine-tuning to reinforcement fine-tuning and reinforcement learning.
