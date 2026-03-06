@@ -100,6 +100,7 @@ My research interests lie in LLM/MLLM Reasoning and Graph Representation Learnin
 
 `Ruilin Luo`\*, Chufan Shi\*, Yizhen Zhang\*, Cheng Yang, Songtao Jiang, Tongkun Guan, Ruizhe Chen, Ruihang Chu, Peng Wang, Mingkun Yang, Lei Wang, Yujiu Yang, Junyang Lin, Zhibo Yang
 
+[[paper]](https://arxiv.org/abs/2603.03825) | [[code]](https://github.com/lrlbbzl/Qwen-AVAR) | [[HuggingFace]](https://huggingface.co/Antimage01/AVAR-Thinker-7B)
 - We propose the VAS attention metric and find that the reasoning performance of Multimodal Large Reasoning Models (MLRM) is highly correlated with VAS.
 - We introduce the AVAR training pipeline, which enhances the effectiveness of multimodal reasoning data training by scaling VAS through three stages: data construction, cold-start initialization, and reinforcement learning.
 - Our model achieves state-of-the-art results on reasoning and perception benchmarks at the 7B scale.
