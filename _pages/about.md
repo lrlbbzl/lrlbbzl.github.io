@@ -42,7 +42,7 @@ My research interests lie in LLM/MLLM Reasoning and Graph Representation Learnin
 <!-- <div><br></div> -->
 <!-- <br> -->
 
-<img class="svg" src="/images/hsy.jpg" width="50pt"> The No.1 Middle School Affiliated To Central China Normal University
+<img class="svg" src="/images/Hsyfz.png" width="50pt"> The No.1 Middle School Affiliated To Central China Normal University
 <br>
 
 - *Sept. 2016 - June 2019*, High School Diploma.
