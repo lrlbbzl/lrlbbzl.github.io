@@ -39,6 +39,14 @@ My research interests lie in LLM/MLLM Reasoning and Graph Representation Learnin
 
 - *Sept. 2019 - June 2023*, Bachelor’s Degree in Computer Science and Technology, GPA 3.96/4.00.
 
+<!-- <div><br></div> -->
+<!-- <br> -->
+
+<img class="svg" src="/images/hsy.jpg" width="50pt"> The No.1 Middle School Affiliated To Central China Normal University
+<br>
+
+- *Sept. 2016 - June 2019*, High School Diploma.
+
 
 <span class='anchor' id='-intern'></span>
 
