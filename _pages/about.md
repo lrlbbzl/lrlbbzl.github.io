@@ -51,6 +51,7 @@ My research interests lie in LLM/MLLM Reasoning and Graph Representation Learnin
 <span class='anchor' id='-intern'></span>
 
 # 🎆 News
+- *Jun. 2026*: Delighted to graduate as an Outstanding Master's Graduate of Tsinghua University.
 - *Jan. 2026*: AVAR has been accepted by **ICLR 2026**. See you in Rio de Janeiro, Brazil.
 - *Nov. 2025*: [Qwen3-VL technical report](https://arxiv.org/abs/2511.21631) is released.
 - *Sept. 2025*: Qwen3-VL is released! Try stronger reasoning on [Qwen Chat](https://chat.qwen.ai/).
