@@ -51,6 +51,7 @@ My research interests lie in LLM/MLLM Reasoning and Graph Representation Learnin
 <span class='anchor' id='-intern'></span>
 
 # 🎆 News
+- *Aug. 2026*: [Hy4-preview](https://hy.tencent.com/research/hy4-preview) (770A49B MOE) is open-sourced. 
 - *Jun. 2026*: Delighted to graduate as an Outstanding Master's Graduate of Tsinghua University.
 - *Jan. 2026*: AVAR has been accepted by **ICLR 2026**. See you in Rio de Janeiro, Brazil.
 - *Nov. 2025*: [Qwen3-VL technical report](https://arxiv.org/abs/2511.21631) is released.
@@ -62,12 +63,19 @@ My research interests lie in LLM/MLLM Reasoning and Graph Representation Learnin
 - *May 2024*: UniBi has been accepted by **ECML-PKDD 2024** as an oral paper. See you in Vilnius, Lithuania.
 - *Feb. 2024*: PReSA has been accepted by **COLING 2024**. See you in Torino, Italy.
 
-# 💻 Interships
+# 💻 Experience
+
+<img class="svg" src="/images/hy-logo.svg" width="60pt"> Tencent Hy, Foundation Model Team, Beijing
+<br>
+
+- *Mar. 2026 - Present*, Researcher, Multimodal Large Language Model.
+
+<!-- <br> -->
 
 <img class="svg" src="/images/qwen-logo.svg" width="30pt"> Alibaba Group, QwenVL Team, Hangzhou 
 <br>
 
-- *Mar. 2025 - Present*, Research Intern, Multimodal Large Language Model Reasoning.
+- *Mar. 2025 - Feb. 2026*, Research Intern, Multimodal Large Language Model Reasoning.
 
 <!-- <br> -->
 
