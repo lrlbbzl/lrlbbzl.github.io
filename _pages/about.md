@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Ruilin Luo. I am currently a third-year master’s student in the [Intelligent Interaction Group (IIGroup)](https://iigroup.github.io/) at *Tsinghua University*, supervised by Prof. [Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN). I received my bachelor's degree from *Huazhong University of Science and Technology*, supervised by Prof. [Kun He](https://scholar.google.com/citations?hl=zh-CN&user=YTQnGJsAAAAJ&view_op=list_works&sortby=pubdate). Prior to that, I spent three happy years of high school at *NO.1 Middle School Affiliated to Central China Normal University*.
+Hi! I am Ruilin Luo. I received my Master's degree (Outstanding Graduate) from Tsinghua University in 2026, advised by Prof. [Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN). Currently, I am a Researcher at Tencent Hy Foundation Model Team. I received my bachelor's degree from *Huazhong University of Science and Technology*, supervised by Prof. [Kun He](https://scholar.google.com/citations?hl=zh-CN&user=YTQnGJsAAAAJ&view_op=list_works&sortby=pubdate). Prior to that, I spent three happy years of high school at *NO.1 Middle School Affiliated to Central China Normal University*.
 
 My research interests lie in LLM/MLLM Reasoning and Graph Representation Learning. 
 
